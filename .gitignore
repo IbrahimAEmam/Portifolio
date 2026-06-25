@@ -1,0 +1,5 @@
+*.log
+# all log extensions files
+!vip.log
+# all log extension except vip.log
+node/
